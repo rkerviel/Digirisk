@@ -1399,6 +1399,9 @@ TSProject = Projet lié aux tickets
 TicketInitial = TS
 TicketDescription = Projet des tickets
 TicketProjectUpdated = Le projet par défaut des tickets a été mis à jour
+TicketSuccessMessageData = Message du ticket
+TicketSuccessMessage = Message de succès du ticket
+TicketSuccessMessageSet = Le message a bien été modifié
 
 
 # Ticket document
